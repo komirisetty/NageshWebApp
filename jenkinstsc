@@ -1,4 +1,4 @@
-# check for poll scm
+check for poll scm
 # install java 1.8
   1  sudo apt-get update
     2  sudo apt-get install -y default-jre
