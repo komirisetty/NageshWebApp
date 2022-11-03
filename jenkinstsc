@@ -20,3 +20,4 @@
      - name: jenkins installation
        shell: ./jenkinstsc
 # ...  
+password=123
